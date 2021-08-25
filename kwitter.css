@@ -1,0 +1,34 @@
+.body_background 
+{
+    background-image:url(light.jpg);
+    background-position:center;
+    background-size:cover;
+}
+
+.Login_Div{
+    background-image:url(light.jpg);
+    padding: 10px;
+    float: none;
+	border-radius: 15px;
+    text-align: center;
+    left: 600px;
+}
+
+.body_background2{
+    background-image:url(dark.webp);
+    background-position:center;
+    background-size:cover;
+}
+
+.Login_Div2{
+    background-image:url(dark.webp);
+    padding: 10px;
+    float: none;
+	border-radius: 15px;
+    text-align: center;
+    left: 600px;
+}
+
+#chat, #chat2{
+    color: white;
+}
